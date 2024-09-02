@@ -1,0 +1,23 @@
+# Ignore build output
+TodoApi/bin/
+TodoApi/obj/
+
+# Ignore NuGet packages
+TodoApi/*.nupkg
+TodoApi/packages/
+
+# Ignore Visual Studio files
+TodoApi/.vs/
+TodoApi/*.suo
+TodoApi/*.user
+TodoApi/*.sln.docstates
+
+# Ignore ReSharper files
+TodoApi/_ReSharper*/
+
+# Ignore Node.js dependencies
+TodoApi/node_modules/
+
+# Ignore logs and temporary files
+TodoApi/*.log
+TodoApi/*.tmp
